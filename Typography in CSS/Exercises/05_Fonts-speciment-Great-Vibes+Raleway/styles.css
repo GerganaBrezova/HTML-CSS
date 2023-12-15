@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Rubik:wght@300&display=swap');
+
+body {
+    width: 30.7cm;
+    font-family: Rubik;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1, h2 {
+    font-family: Great Vibes;
+    line-height: 1.2;
+    font-weight: bold;
+}
